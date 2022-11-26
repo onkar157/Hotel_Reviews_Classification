@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat Nov 26 23:53:31 2022
 
 @author: onkar
 """
